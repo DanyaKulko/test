@@ -1,0 +1,21 @@
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 30
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[08-Jul-2021 06:43:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[08-Jul-2021 06:43:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[08-Jul-2021 06:43:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[08-Jul-2021 06:43:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[08-Jul-2021 06:43:32 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[08-Jul-2021 06:43:32 America/New_York] PHP Warning:  array_key_first() expects parameter 1 to be array, null given in /home/seamrmii/mtctests.com/tests/access_checking.php on line 62

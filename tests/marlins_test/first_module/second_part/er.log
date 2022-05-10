@@ -1,0 +1,5 @@
+[07-Jul-2021 09:04:25 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/marlins_test/access_checking.php on line 30
+[07-Jul-2021 09:04:25 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/marlins_test/access_checking.php on line 30
+[07-Jul-2021 09:04:25 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/marlins_test/access_checking.php on line 30
+[07-Jul-2021 11:41:37 America/New_York] PHP Warning:  require(../../../db.php): failed to open stream: No such file or directory in /home/seamrmii/mtctests.com/tests/access_checking.php on line 3
+[07-Jul-2021 11:41:37 America/New_York] PHP Fatal error:  require(): Failed opening required '../../../db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/seamrmii/mtctests.com/tests/access_checking.php on line 3

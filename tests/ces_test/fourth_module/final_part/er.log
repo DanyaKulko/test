@@ -1,0 +1,26 @@
+[20-Jun-2021 18:59:45 America/New_York] PHP Warning:  require(../../access_checking.php): failed to open stream: No such file or directory in /home/seamrmii/mtctests.com/tests/ces_test/fourth_module/final_part/index.php on line 5
+[20-Jun-2021 18:59:45 America/New_York] PHP Fatal error:  require(): Failed opening required '../../access_checking.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/seamrmii/mtctests.com/tests/ces_test/fourth_module/final_part/index.php on line 5
+[20-Jun-2021 19:00:22 America/New_York] PHP Warning:  require(../../../db.php): failed to open stream: No such file or directory in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 3
+[20-Jun-2021 19:00:22 America/New_York] PHP Fatal error:  require(): Failed opening required '../../../db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 3
+[20-Jun-2021 19:01:25 America/New_York] PHP Warning:  require(../../../db.php): failed to open stream: No such file or directory in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 3
+[20-Jun-2021 19:01:25 America/New_York] PHP Fatal error:  require(): Failed opening required '../../../db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 3
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[20-Jun-2021 19:01:45 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 29
+[15-Mar-2022 06:05:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[15-Mar-2022 06:05:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[15-Mar-2022 06:05:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[16-Mar-2022 04:37:19 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[16-Mar-2022 04:37:19 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[16-Mar-2022 04:37:19 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[16-Mar-2022 04:37:19 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[16-Mar-2022 04:37:19 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28
+[16-Mar-2022 04:37:19 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 28

@@ -1,0 +1,62 @@
+[20-Jun-2021 02:46:23 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 29
+[20-Jun-2021 02:46:23 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/access_checking.php on line 29
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[07-Jul-2021 11:22:36 America/New_York] PHP Notice:  Array to string conversion in /home/seamrmii/mtctests.com/tests/ces_test/access_checking.php on line 30
+[09-Jul-2021 12:11:31 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[09-Jul-2021 12:11:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[09-Jul-2021 12:11:31 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[09-Jul-2021 12:11:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[09-Jul-2021 12:11:31 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[09-Jul-2021 12:11:31 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[09-Jul-2021 12:35:36 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[09-Jul-2021 12:35:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[09-Jul-2021 12:35:36 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[09-Jul-2021 12:35:36 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[09-Jul-2021 12:35:36 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[09-Jul-2021 12:35:36 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[09-Jul-2021 12:38:55 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[09-Jul-2021 12:38:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[09-Jul-2021 12:38:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[09-Jul-2021 12:38:55 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[09-Jul-2021 12:38:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[09-Jul-2021 12:38:55 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[09-Jul-2021 12:39:07 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[09-Jul-2021 12:39:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[09-Jul-2021 12:39:07 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[09-Jul-2021 12:39:07 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[09-Jul-2021 12:39:07 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[09-Jul-2021 12:39:07 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[09-Jul-2021 13:20:27 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[09-Jul-2021 13:20:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[09-Jul-2021 13:20:27 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[09-Jul-2021 13:20:27 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[09-Jul-2021 13:20:27 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[09-Jul-2021 13:20:27 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[13-Jul-2021 05:49:37 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[13-Jul-2021 05:49:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[13-Jul-2021 05:49:37 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[13-Jul-2021 05:49:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[13-Jul-2021 05:49:37 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[13-Jul-2021 05:49:37 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34
+[13-Jul-2021 05:55:43 America/New_York] PHP Notice:  Undefined variable: con in /home/seamrmii/mtctests.com/tests/access_checking.php on line 54
+[13-Jul-2021 05:55:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 9
+[13-Jul-2021 05:55:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 12
+[13-Jul-2021 05:55:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 21
+[13-Jul-2021 05:55:43 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/seamrmii/mtctests.com/tests_arrayy.php on line 24
+[13-Jul-2021 05:55:43 America/New_York] PHP Notice:  Undefined variable: result in /home/seamrmii/mtctests.com/tests_arrayy.php on line 34

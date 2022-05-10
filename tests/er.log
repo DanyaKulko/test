@@ -1,0 +1,738 @@
+[23-Jun-2021 04:02:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jun-2021 04:02:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jun-2021 04:02:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jun-2021 04:02:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jun-2021 04:02:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jun-2021 04:02:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jun-2021 05:00:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jun-2021 05:00:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jun-2021 05:00:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jun-2021 05:00:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jun-2021 05:00:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jun-2021 05:00:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Jun-2021 15:36:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Jun-2021 15:36:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Jun-2021 15:36:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Jun-2021 15:36:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Jun-2021 15:36:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Jun-2021 15:36:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[07-Jul-2021 11:53:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[07-Jul-2021 11:53:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[07-Jul-2021 11:53:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[07-Jul-2021 11:53:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[07-Jul-2021 11:53:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[07-Jul-2021 11:53:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Jul-2021 01:41:31 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Jul-2021 01:41:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Jul-2021 01:41:31 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Jul-2021 01:41:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Jul-2021 01:41:31 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Jul-2021 01:41:31 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jul-2021 16:30:23 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jul-2021 16:30:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jul-2021 16:30:23 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jul-2021 16:30:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jul-2021 16:30:23 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jul-2021 16:30:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jul-2021 09:48:12 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jul-2021 09:48:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jul-2021 09:48:12 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jul-2021 09:48:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jul-2021 09:48:12 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jul-2021 09:48:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jul-2021 11:30:54 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jul-2021 11:30:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jul-2021 11:30:54 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jul-2021 11:30:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jul-2021 11:30:54 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jul-2021 11:30:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 06:20:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 06:20:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 06:20:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 06:20:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 06:20:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 06:20:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 07:30:41 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 07:30:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 07:30:41 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 07:30:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 07:30:41 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 07:30:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 09:39:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 09:39:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 09:39:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 09:39:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 09:39:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 09:39:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 13:09:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 13:09:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 13:09:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 13:09:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 13:09:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 13:09:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 15:17:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 15:17:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jul-2021 15:17:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 15:17:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jul-2021 15:17:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jul-2021 15:17:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jul-2021 02:06:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jul-2021 02:06:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jul-2021 02:06:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jul-2021 02:06:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jul-2021 02:06:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jul-2021 02:06:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jul-2021 17:07:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jul-2021 17:07:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jul-2021 17:07:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jul-2021 17:07:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jul-2021 17:07:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jul-2021 17:07:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Jul-2021 16:06:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Jul-2021 16:06:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Jul-2021 16:06:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Jul-2021 16:06:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Jul-2021 16:06:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Jul-2021 16:06:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Aug-2021 15:36:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Aug-2021 15:36:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Aug-2021 15:36:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Aug-2021 15:36:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Aug-2021 15:36:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Aug-2021 15:36:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Aug-2021 15:28:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Aug-2021 15:28:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Aug-2021 15:28:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Aug-2021 15:28:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Aug-2021 15:28:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Aug-2021 15:28:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Aug-2021 12:45:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Aug-2021 12:45:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Aug-2021 12:45:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Aug-2021 12:45:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Aug-2021 12:45:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Aug-2021 12:45:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Aug-2021 15:59:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Aug-2021 15:59:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Aug-2021 15:59:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Aug-2021 15:59:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Aug-2021 15:59:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Aug-2021 15:59:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Aug-2021 17:14:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Aug-2021 17:14:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Aug-2021 17:14:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Aug-2021 17:14:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Aug-2021 17:14:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Aug-2021 17:14:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Aug-2021 18:12:01 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Aug-2021 18:12:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Aug-2021 18:12:01 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Aug-2021 18:12:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Aug-2021 18:12:01 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Aug-2021 18:12:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Aug-2021 16:02:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Aug-2021 16:02:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Aug-2021 16:02:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Aug-2021 16:02:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Aug-2021 16:02:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Aug-2021 16:02:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Aug-2021 16:23:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Aug-2021 16:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Aug-2021 16:23:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Aug-2021 16:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Aug-2021 16:23:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Aug-2021 16:23:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Aug-2021 13:30:08 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Aug-2021 13:30:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Aug-2021 13:30:08 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Aug-2021 13:30:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Aug-2021 13:30:08 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Aug-2021 13:30:08 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Aug-2021 17:48:13 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Aug-2021 17:48:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Aug-2021 17:48:13 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Aug-2021 17:48:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Aug-2021 17:48:13 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Aug-2021 17:48:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 13:59:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 13:59:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 13:59:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 13:59:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 13:59:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 13:59:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 17:15:39 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 17:15:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 17:15:39 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 17:15:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 17:15:39 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 17:15:39 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 18:44:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 18:44:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 18:44:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 18:44:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 18:44:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 18:44:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 20:44:05 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 20:44:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Aug-2021 20:44:05 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 20:44:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Aug-2021 20:44:05 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Aug-2021 20:44:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Aug-2021 17:32:55 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Aug-2021 17:32:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Aug-2021 17:32:55 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Aug-2021 17:32:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Aug-2021 17:32:55 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Aug-2021 17:32:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[29-Nov-2021 04:27:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[29-Nov-2021 04:27:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[29-Nov-2021 04:27:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[29-Nov-2021 04:27:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[29-Nov-2021 04:27:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[29-Nov-2021 04:27:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[01-Dec-2021 09:28:48 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[01-Dec-2021 09:28:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[01-Dec-2021 09:28:48 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[01-Dec-2021 09:28:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[01-Dec-2021 09:28:48 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[01-Dec-2021 09:28:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Dec-2021 02:46:11 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Dec-2021 02:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Dec-2021 02:46:11 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Dec-2021 02:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Dec-2021 02:46:11 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Dec-2021 02:46:11 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Dec-2021 03:36:51 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Dec-2021 03:36:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Dec-2021 03:36:51 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Dec-2021 03:36:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Dec-2021 03:36:51 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Dec-2021 03:36:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Dec-2021 04:58:57 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Dec-2021 04:58:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Dec-2021 04:58:57 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Dec-2021 04:58:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Dec-2021 04:58:57 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Dec-2021 04:58:57 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Dec-2021 03:05:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Dec-2021 03:05:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Dec-2021 03:05:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Dec-2021 03:05:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Dec-2021 03:05:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Dec-2021 03:05:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Dec-2021 15:24:19 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Dec-2021 15:24:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Dec-2021 15:24:19 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Dec-2021 15:24:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Dec-2021 15:24:19 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Dec-2021 15:24:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[06-Dec-2021 03:28:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[06-Dec-2021 03:28:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[06-Dec-2021 03:28:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[06-Dec-2021 03:28:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[06-Dec-2021 03:28:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[06-Dec-2021 03:28:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[06-Dec-2021 09:48:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[06-Dec-2021 09:48:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[06-Dec-2021 09:48:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[06-Dec-2021 09:48:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[06-Dec-2021 09:48:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[06-Dec-2021 09:48:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[07-Dec-2021 07:03:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[07-Dec-2021 07:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[07-Dec-2021 07:03:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[07-Dec-2021 07:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[07-Dec-2021 07:03:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[07-Dec-2021 07:03:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Dec-2021 04:03:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Dec-2021 04:03:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Dec-2021 04:03:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Dec-2021 04:03:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Dec-2021 04:03:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Dec-2021 04:03:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Dec-2021 06:37:09 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Dec-2021 06:37:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Dec-2021 06:37:09 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Dec-2021 06:37:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Dec-2021 06:37:09 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Dec-2021 06:37:09 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Dec-2021 09:51:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Dec-2021 09:51:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[08-Dec-2021 09:51:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Dec-2021 09:51:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[08-Dec-2021 09:51:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[08-Dec-2021 09:51:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[09-Dec-2021 09:29:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[09-Dec-2021 09:29:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[09-Dec-2021 09:29:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[09-Dec-2021 09:29:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[09-Dec-2021 09:29:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[09-Dec-2021 09:29:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[09-Dec-2021 13:11:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[09-Dec-2021 13:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[09-Dec-2021 13:11:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[09-Dec-2021 13:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[09-Dec-2021 13:11:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[09-Dec-2021 13:11:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[12-Dec-2021 09:02:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[12-Dec-2021 09:02:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[12-Dec-2021 09:02:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[12-Dec-2021 09:02:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[12-Dec-2021 09:02:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[12-Dec-2021 09:02:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[13-Dec-2021 10:00:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[13-Dec-2021 10:00:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[13-Dec-2021 10:00:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[13-Dec-2021 10:00:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[13-Dec-2021 10:00:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[13-Dec-2021 10:00:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[14-Dec-2021 06:38:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[14-Dec-2021 06:38:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[14-Dec-2021 06:38:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[14-Dec-2021 06:38:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[14-Dec-2021 06:38:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[14-Dec-2021 06:38:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Dec-2021 07:51:58 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Dec-2021 07:51:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Dec-2021 07:51:58 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Dec-2021 07:51:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Dec-2021 07:51:58 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Dec-2021 07:51:58 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Dec-2021 12:16:51 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Dec-2021 12:16:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Dec-2021 12:16:51 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Dec-2021 12:16:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Dec-2021 12:16:51 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Dec-2021 12:16:51 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Dec-2021 05:19:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Dec-2021 05:19:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Dec-2021 05:19:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Dec-2021 05:19:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Dec-2021 05:19:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Dec-2021 05:19:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Dec-2021 09:41:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Dec-2021 09:41:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Dec-2021 09:41:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Dec-2021 09:41:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Dec-2021 09:41:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Dec-2021 09:41:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Dec-2021 06:33:38 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Dec-2021 06:33:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Dec-2021 06:33:38 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Dec-2021 06:33:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Dec-2021 06:33:38 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Dec-2021 06:33:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Dec-2021 03:27:04 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Dec-2021 03:27:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Dec-2021 03:27:04 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Dec-2021 03:27:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Dec-2021 03:27:04 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Dec-2021 03:27:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Dec-2021 09:56:24 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Dec-2021 09:56:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Dec-2021 09:56:24 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Dec-2021 09:56:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Dec-2021 09:56:24 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Dec-2021 09:56:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Dec-2021 06:35:56 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Dec-2021 06:35:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Dec-2021 06:35:56 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Dec-2021 06:35:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Dec-2021 06:35:56 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Dec-2021 06:35:56 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Dec-2021 03:00:27 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Dec-2021 03:00:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Dec-2021 03:00:27 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Dec-2021 03:00:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Dec-2021 03:00:27 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Dec-2021 03:00:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[14-Jan-2022 15:12:07 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[14-Jan-2022 15:12:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[14-Jan-2022 15:12:07 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[14-Jan-2022 15:12:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[14-Jan-2022 15:12:07 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[14-Jan-2022 15:12:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Jan-2022 05:24:23 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Jan-2022 05:24:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Jan-2022 05:24:23 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Jan-2022 05:24:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Jan-2022 05:24:23 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Jan-2022 05:24:23 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 09:05:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 09:05:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 09:05:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 09:05:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 09:05:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 09:05:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 11:41:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 11:41:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 11:41:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 11:41:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 11:41:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 11:41:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 13:44:55 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 13:44:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 13:44:55 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 13:44:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 13:44:55 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 13:44:55 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 15:13:27 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 15:13:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Jan-2022 15:13:27 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 15:13:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Jan-2022 15:13:27 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Jan-2022 15:13:27 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Jan-2022 11:37:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Jan-2022 11:37:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Jan-2022 11:37:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Jan-2022 11:37:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Jan-2022 11:37:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Jan-2022 11:37:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Jan-2022 14:12:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Jan-2022 14:12:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Jan-2022 14:12:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Jan-2022 14:12:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Jan-2022 14:12:37 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Jan-2022 14:12:37 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Jan-2022 02:08:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Jan-2022 02:08:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Jan-2022 02:08:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Jan-2022 02:08:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Jan-2022 02:08:02 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Jan-2022 02:08:02 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Jan-2022 09:17:35 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Jan-2022 09:17:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[18-Jan-2022 09:17:35 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Jan-2022 09:17:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[18-Jan-2022 09:17:35 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[18-Jan-2022 09:17:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 05:18:48 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 05:18:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 05:18:48 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 05:18:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 05:18:48 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 05:18:48 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 05:36:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 05:36:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 05:36:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 05:36:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 05:36:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 05:36:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 06:49:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 06:49:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 06:49:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 06:49:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 06:49:14 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 06:49:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 10:44:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 10:44:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 10:44:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 10:44:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 10:44:06 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 10:44:06 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 14:29:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 14:29:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 14:29:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 14:29:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 14:29:46 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 14:29:46 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 16:16:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 16:16:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[19-Jan-2022 16:16:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 16:16:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[19-Jan-2022 16:16:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[19-Jan-2022 16:16:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Jan-2022 11:54:05 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Jan-2022 11:54:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Jan-2022 11:54:05 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Jan-2022 11:54:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Jan-2022 11:54:05 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Jan-2022 11:54:05 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Jan-2022 13:31:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Jan-2022 13:31:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Jan-2022 13:31:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Jan-2022 13:31:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Jan-2022 13:31:29 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Jan-2022 13:31:29 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 05:08:04 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 05:08:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 05:08:04 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 05:08:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 05:08:04 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 05:08:04 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 09:11:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 09:11:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 09:11:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 09:11:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 09:11:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 09:11:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 14:37:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 14:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 14:37:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 14:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 14:37:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 14:37:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 17:29:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 17:29:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 17:29:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 17:29:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 17:29:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 17:29:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 18:32:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 18:32:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[21-Jan-2022 18:32:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 18:32:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[21-Jan-2022 18:32:47 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[21-Jan-2022 18:32:47 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jan-2022 08:18:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jan-2022 08:18:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jan-2022 08:18:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jan-2022 08:18:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jan-2022 08:18:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jan-2022 08:18:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jan-2022 12:21:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jan-2022 12:21:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Jan-2022 12:21:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jan-2022 12:21:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Jan-2022 12:21:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Jan-2022 12:21:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 04:13:25 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 04:13:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 04:13:25 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 04:13:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 04:13:25 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 04:13:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 05:42:24 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 05:42:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 05:42:24 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 05:42:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 05:42:24 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 05:42:24 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 07:47:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 07:47:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 07:47:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 07:47:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 07:47:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 07:47:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 09:05:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 09:05:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 09:05:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 09:05:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 09:05:18 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 09:05:18 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 09:44:13 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 09:44:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 09:44:13 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 09:44:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 09:44:13 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 09:44:13 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 10:56:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 10:56:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 10:56:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 10:56:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 10:56:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 10:56:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 12:43:54 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 12:43:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 12:43:54 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 12:43:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 12:43:54 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 12:43:54 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 13:32:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 13:32:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[23-Jan-2022 13:32:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 13:32:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[23-Jan-2022 13:32:36 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[23-Jan-2022 13:32:36 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 02:50:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 02:50:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 02:50:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 02:50:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 02:50:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 02:50:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 09:09:12 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 09:09:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 09:09:12 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 09:09:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 09:09:12 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 09:09:12 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 11:42:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 11:42:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 11:42:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 11:42:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 11:42:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 11:42:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 13:13:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 13:13:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[24-Jan-2022 13:13:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 13:13:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[24-Jan-2022 13:13:53 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[24-Jan-2022 13:13:53 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Jan-2022 14:32:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Jan-2022 14:32:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[25-Jan-2022 14:32:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Jan-2022 14:32:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[25-Jan-2022 14:32:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[25-Jan-2022 14:32:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[27-Jan-2022 13:44:41 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[27-Jan-2022 13:44:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[27-Jan-2022 13:44:41 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[27-Jan-2022 13:44:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[27-Jan-2022 13:44:41 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[27-Jan-2022 13:44:41 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[28-Jan-2022 07:06:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[28-Jan-2022 07:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[28-Jan-2022 07:06:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[28-Jan-2022 07:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[28-Jan-2022 07:06:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[28-Jan-2022 07:06:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[02-Feb-2022 03:59:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[02-Feb-2022 03:59:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[02-Feb-2022 03:59:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[02-Feb-2022 03:59:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[02-Feb-2022 03:59:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[02-Feb-2022 03:59:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[02-Feb-2022 08:50:19 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[02-Feb-2022 08:50:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[02-Feb-2022 08:50:19 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[02-Feb-2022 08:50:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[02-Feb-2022 08:50:19 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[02-Feb-2022 08:50:19 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Feb-2022 00:41:07 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Feb-2022 00:41:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Feb-2022 00:41:07 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Feb-2022 00:41:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Feb-2022 00:41:07 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Feb-2022 00:41:07 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Feb-2022 05:00:01 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Feb-2022 05:00:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Feb-2022 05:00:01 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Feb-2022 05:00:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Feb-2022 05:00:01 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Feb-2022 05:00:01 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Feb-2022 12:03:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Feb-2022 12:03:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Feb-2022 12:03:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Feb-2022 12:03:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Feb-2022 12:03:32 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Feb-2022 12:03:32 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Feb-2022 16:39:26 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Feb-2022 16:39:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Feb-2022 16:39:26 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Feb-2022 16:39:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Feb-2022 16:39:26 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Feb-2022 16:39:26 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Mar-2022 04:30:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Mar-2022 04:30:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[15-Mar-2022 04:30:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Mar-2022 04:30:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[15-Mar-2022 04:30:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[15-Mar-2022 04:30:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Mar-2022 10:32:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Mar-2022 10:32:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[16-Mar-2022 10:32:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Mar-2022 10:32:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[16-Mar-2022 10:32:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[16-Mar-2022 10:32:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Mar-2022 04:29:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Mar-2022 04:29:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Mar-2022 04:29:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Mar-2022 04:29:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Mar-2022 04:29:17 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Mar-2022 04:29:17 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Mar-2022 08:17:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Mar-2022 08:17:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Mar-2022 08:17:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Mar-2022 08:17:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Mar-2022 08:17:50 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Mar-2022 08:17:50 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Mar-2022 11:18:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Mar-2022 11:18:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[17-Mar-2022 11:18:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Mar-2022 11:18:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[17-Mar-2022 11:18:43 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[17-Mar-2022 11:18:43 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Mar-2022 14:38:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Mar-2022 14:38:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[20-Mar-2022 14:38:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Mar-2022 14:38:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[20-Mar-2022 14:38:44 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[20-Mar-2022 14:38:44 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Mar-2022 12:58:25 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Mar-2022 12:58:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[22-Mar-2022 12:58:25 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Mar-2022 12:58:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[22-Mar-2022 12:58:25 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[22-Mar-2022 12:58:25 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[29-Mar-2022 15:26:35 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[29-Mar-2022 15:26:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[29-Mar-2022 15:26:35 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[29-Mar-2022 15:26:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[29-Mar-2022 15:26:35 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[29-Mar-2022 15:26:35 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[29-Mar-2022 17:37:34 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[29-Mar-2022 17:37:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[29-Mar-2022 17:37:34 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[29-Mar-2022 17:37:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[29-Mar-2022 17:37:34 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[29-Mar-2022 17:37:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[31-Mar-2022 11:36:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[31-Mar-2022 11:36:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[31-Mar-2022 11:36:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[31-Mar-2022 11:36:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[31-Mar-2022 11:36:00 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[31-Mar-2022 11:36:00 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[31-Mar-2022 13:02:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[31-Mar-2022 13:02:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[31-Mar-2022 13:02:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[31-Mar-2022 13:02:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[31-Mar-2022 13:02:22 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[31-Mar-2022 13:02:22 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[01-Apr-2022 14:03:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[01-Apr-2022 14:03:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[01-Apr-2022 14:03:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[01-Apr-2022 14:03:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[01-Apr-2022 14:03:28 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[01-Apr-2022 14:03:28 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Apr-2022 07:03:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Apr-2022 07:03:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[03-Apr-2022 07:03:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Apr-2022 07:03:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[03-Apr-2022 07:03:49 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[03-Apr-2022 07:03:49 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Apr-2022 05:34:40 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Apr-2022 05:34:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Apr-2022 05:34:40 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Apr-2022 05:34:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Apr-2022 05:34:40 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Apr-2022 05:34:40 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Apr-2022 14:27:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Apr-2022 14:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[04-Apr-2022 14:27:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Apr-2022 14:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[04-Apr-2022 14:27:16 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[04-Apr-2022 14:27:16 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 10:33:42 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 10:33:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 10:33:42 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 10:33:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 10:33:42 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 10:33:42 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 11:04:33 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 11:04:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 11:04:33 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 11:04:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 11:04:33 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 11:04:33 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 14:15:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 14:15:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 14:15:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 14:15:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 14:15:10 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 14:15:10 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 17:58:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 17:58:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 10
+[11-Apr-2022 17:58:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 17:58:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 11
+[11-Apr-2022 17:58:59 America/New_York] PHP Notice:  Undefined index: logged_user in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
+[11-Apr-2022 17:58:59 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/seamrmii/mtctests.com/tests/quiz_handler.php on line 12
